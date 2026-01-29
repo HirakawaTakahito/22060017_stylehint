@@ -1,0 +1,5 @@
+{
+  "name": "Style Hint",
+  "description": "An intelligent fashion assistant that uses a digital fashion manual and RAG principles to suggest coordinates based on items you own, complete with visualized examples using Google Gemini.",
+  "requestFramePermissions": []
+}
